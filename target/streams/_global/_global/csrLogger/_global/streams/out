@@ -1,10 +1,2 @@
-[debug] downloaded https://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
-[debug] downloaded https://repo1.maven.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
-[debug] downloaded https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/9.3.24.v20180605/jetty-security-9.3.24.v20180605.pom
-[debug] downloaded https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/9.3.24.v20180605/jetty-util-9.3.24.v20180605.pom
-[debug] downloaded https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/9.3.24.v20180605/jetty-security-9.3.24.v20180605.jar
-[debug] downloaded https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/9.3.24.v20180605/jetty-util-9.3.24.v20180605.jar
-[debug] downloaded https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/9.3.24.v20180605/jetty-security-9.3.24.v20180605-sources.jar
-[debug] downloaded https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/9.3.24.v20180605/jetty-util-9.3.24.v20180605-javadoc.jar
-[debug] downloaded https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/9.3.24.v20180605/jetty-util-9.3.24.v20180605-sources.jar
-[debug] downloaded https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/9.3.24.v20180605/jetty-security-9.3.24.v20180605-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.12/2.0.0/spark-mllib_2.12-2.0.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-mllib_2.12/2.0.0/spark-mllib_2.12-2.0.0.pom.sha1
