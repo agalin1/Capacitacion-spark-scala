@@ -36,6 +36,7 @@ object Demo {
     dfInputData.printSchema()
 
     println("Se realizaron pruebas unitarias")
+    println("En conjunto con el analista qa se realizo todas la pruebas unitarias")
 
 
   }
