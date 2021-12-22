@@ -19,7 +19,6 @@ object Demo {
 
   var dfInputData: DataFrame = spark.emptyDataFrame
 
-
   def main(args: Array[String]): Unit = {
 
     sc = spark.sparkContext
